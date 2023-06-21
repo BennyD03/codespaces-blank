@@ -1,0 +1,15 @@
+[07-May-2023 01:06:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'everhono_goosetrade.site'@'localhost' (using password: YES) in /home/everhono/goosetrade.site/scripts/conn.php on line 7
+[07-May-2023 01:06:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 10
+[07-May-2023 01:06:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 12
+[07-May-2023 01:10:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'everhono_goosetrade.site'@'localhost' (using password: YES) in /home/everhono/goosetrade.site/scripts/conn.php on line 7
+[07-May-2023 01:10:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 10
+[07-May-2023 01:10:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 12
+[07-May-2023 01:10:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'everhono_goosetrade.site'@'localhost' (using password: YES) in /home/everhono/goosetrade.site/scripts/conn.php on line 7
+[07-May-2023 01:10:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 10
+[07-May-2023 01:10:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 12
+[07-May-2023 01:10:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'everhono_goosetrade.site'@'localhost' (using password: YES) in /home/everhono/goosetrade.site/scripts/conn.php on line 7
+[07-May-2023 01:10:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 10
+[07-May-2023 01:10:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 12
+[07-May-2023 01:10:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'everhono_goosetrade.site'@'localhost' (using password: YES) in /home/everhono/goosetrade.site/scripts/conn.php on line 7
+[07-May-2023 01:10:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 10
+[07-May-2023 01:10:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/everhono/goosetrade.site/admin/scripts/server.php on line 12
